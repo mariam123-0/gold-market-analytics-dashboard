@@ -2,7 +2,7 @@
 
 An end-to-end data science project on 25 years of daily gold futures prices: data auditing and cleaning, candlestick analytics with `mplfinance`, return-based prediction modeling (Linear Regression and Random Forest, evaluated with `r2_score`), and a Power BI dashboard layer.
 
-![Dashboard mockup](Gold_Power_BI_Dashboard_Mockup.png)
+![Dashboard mockup](https://github.com/mariam123-0/gold-market-analytics-dashboard/blob/29c39cce59c7adb056087110cbb1f278c5ea7f27/Dashboard.png)
 
 ---
 
@@ -60,7 +60,6 @@ The notebook follows a fixed structure: Introduction, Problem Questions, Objecti
 │   ├── model_metrics_price_level.csv
 │   ├── feature_importance.csv
 │   └── risk_summary.csv
-├── Power_BI_Dashboard_Guide.md          # Data model, DAX measures, page-by-page build guide
 ├── gold_dashboard_theme.json            # Power BI colour theme
 └── Gold_Power_BI_Dashboard_Mockup.png   # Dashboard design
 ```
@@ -168,10 +167,6 @@ A `.pbix` file is not included because it can only be authored in Power BI Deskt
 - Test LSTM or temporal-fusion models with walk-forward re-training.
 - Produce probabilistic (quantile) forecasts rather than point estimates.
 - Stress-test strategies with realistic trading costs.
-
-## Disclaimer
-
-This project is for educational purposes only and is not investment advice.
 
 ## References
 
