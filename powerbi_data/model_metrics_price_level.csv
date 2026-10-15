@@ -1,0 +1,4 @@
+Model,R2_train,R2_test,RMSE_test,MAE_test
+Linear Regression (price),0.99931,0.998,36.20788,20.19303
+Random Forest (price),0.99964,-0.21858,894.11273,479.17687
+Naive (tomorrow = today),,0.99804,35.84231,19.9989

@@ -1,0 +1,14 @@
+{
+  "name": "Gold Dashboard",
+  "dataColors": ["#C9A227", "#1F77B4", "#26A69A", "#EF5350", "#7B4EA3", "#FF9800", "#546E7A", "#8D6E63"],
+  "background": "#FFFFFF",
+  "foreground": "#252423",
+  "tableAccent": "#C9A227",
+  "good": "#26A69A",
+  "neutral": "#C9A227",
+  "bad": "#EF5350",
+  "maximum": "#26A69A",
+  "center": "#FFFFFF",
+  "minimum": "#EF5350",
+  "null": "#BDBDBD"
+}

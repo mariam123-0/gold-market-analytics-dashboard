@@ -1,0 +1,13 @@
+Metric,Value
+CAGR,12.38%
+Annualised volatility,17.69%
+Sharpe ratio (rf = 0),0.66
+Max drawdown,-44.36%
+Skewness,-0.466
+Excess kurtosis,7.02
+Jarque-Bera p-value,0.00e+00
+VaR 95% (1-day),-1.76%
+VaR 99% (1-day),-3.10%
+CVaR 95% (1-day),-2.64%
+Positive days,52.8%
+Best / worst day,8.64% / -12.07%
